@@ -10,4 +10,4 @@ Paste the pos folder in c:\xampp\htdocs
 
 Open your browser and type or paste this following URL(s) :
 
-http://localhost/supercars/ OR try(if you have pasted super-car-search-master folder in htdocs) http://localhost/super-car-search-master/supercars/
+http://localhost/autocomplete/ OR try(if you have pasted super-car-search-master folder in htdocs) http://localhost/super-car-search-master/autocomplete/
